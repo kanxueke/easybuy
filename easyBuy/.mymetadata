@@ -2,7 +2,7 @@
 <project-module
   type="WEB"
   name="easyBuy"
-  id="myeclipse.1508901172017"
+  id="myeclipse.1509332607869"
   context-root="/easyBuy"
   j2ee-spec="6.0"
   archive="easyBuy.war">
